@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "sugar",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2025-12-27T14:20:41.441474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sugar In The Hold",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Sugar_In_The_Hold_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "has_synced": true,
+      "path": "select/02_Watermelon_Sugar_Harry_Styles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Borrowing Sugar",
+      "artist": "Jenny Tolman",
+      "has_synced": false,
+      "path": "select/03_Borrowing_Sugar_Jenny_Tolman.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shake The Sugar Tree",
+      "artist": "Pam Tillis",
+      "has_synced": true,
+      "path": "select/04_Shake_The_Sugar_Tree_Pam_Tillis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shake The Sugar Tree",
+      "artist": "Pam Tillis",
+      "has_synced": true,
+      "path": "select/05_Shake_The_Sugar_Tree_Pam_Tillis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sugar Coat",
+      "artist": "Little Big Town",
+      "has_synced": true,
+      "path": "select/06_Sugar_Coat_Little_Big_Town.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sugar Daddy",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/07_Sugar_Daddy_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sugar Moon",
+      "artist": "Bob Wills & His Texas Playboys",
+      "has_synced": true,
+      "path": "select/08_Sugar_Moon_Bob_Wills_&_His_Texas_Playboys.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sugar Moon (Album Version)",
+      "artist": "Bob Wills & His Texas Playboys",
+      "has_synced": true,
+      "path": "select/09_Sugar_Moon_(Album_Version)_Bob_Wills_&_His_Texas_Playboys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sugar Town",
+      "artist": "Nancy Sinatra",
+      "has_synced": true,
+      "path": "select/10_Sugar_Town_Nancy_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sugar",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/11_Sugar_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sugar - Archigram Remix",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/12_Sugar_-_Archigram_Remix_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sugar (Archigram Remix)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/13_Sugar_(Archigram_Remix)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sugar Honey Iced Tea",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/14_Sugar_Honey_Iced_Tea_Kelis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sugar",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_sugar_Saucy_Dog.txt"
+    }
+  ]
+}
